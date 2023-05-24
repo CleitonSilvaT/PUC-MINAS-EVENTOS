@@ -18,3 +18,7 @@
 [Material do Evento](docs/file.txt)
 
 > Quando o apresentador disponibilizar o material utilizado, vincular neste local
+
+[Transmissão do Evento](https://)
+
+> Quando o evento for transmitido pelo canal do Youtube, informar o link de referencia
